@@ -14,6 +14,15 @@ The primary goals of this project are to:
 
 ---
 
+## 📂 Dataset Note
+
+The dataset used in this project (`OnlineRetail.csv`) exceeds GitHub’s file size limit (25 MB), so it is not included in the repository.
+
+You can download the dataset from the official source:
+- https://www.kaggle.com/datasets/vijayuv/onlineretail
+
+After downloading, place the file in the project directory and run the notebook.
+
 ##  Dataset Overview :-
 
 - **Dataset:** Online Retail Dataset
