@@ -4,7 +4,7 @@ This project focuses on **time series analysis and forecasting of retail sales d
 
 ---
 
-##  Project Objectives :-
+##  Objectives :-
 
 - Convert raw sales data into a **time series format**
 - Perform **monthly resampling** of weekly sales
